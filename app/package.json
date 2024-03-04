@@ -1,0 +1,10 @@
+{
+    "main": "server.js",
+    "dependencies": {
+        "@sap/xsenv": "latest",
+        "@sap/xssec": "^3",
+        "axios": "^1.4.0",
+        "express": "^4.16.3",
+        "passport": "^0.4.1"
+    }
+}
